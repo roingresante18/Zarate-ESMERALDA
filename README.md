@@ -9,7 +9,10 @@ Nuestro publico objetivo son personas adultas responsables de sus domicilios, in
 ** TIPOGRAFIA UTILIZADA:
 https://fonts.google.com/specimen/Josefin+Sans?query=Josefin+Sans
 
+Logo-01.jpg
 
-Puede mostrar una imagen agregando ! y ajustar el texto alternativo en [ ]. Escriba el vínculo de la imagen entre paréntesis ().
+paleta colores.jpg
 
 ! [Logo de la empresa](Logo-01.jpg)
+
+! [paleta de colores](paleta%20colores.jpg)
